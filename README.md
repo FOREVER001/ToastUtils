@@ -24,5 +24,7 @@ Add it in your root build.gradle at the end of repositories:
   
   
   dependencies {
-	        implementation 'com.github.FOREVER001:ToastUtils:1.0.0'
-	}
+
+	      implementation 'com.github.FOREVER001:ToastUtils:1.0.0'
+	
+}
